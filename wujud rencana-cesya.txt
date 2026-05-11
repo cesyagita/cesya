@@ -1,9 +1,10 @@
 #mewujudkan rencana
 -rajin mengerjakan tugas
 *lebih sering meluangkan waktu untuk belasjar
+ ^pintar pintar membagi waktu
 -menabung dengan konsisten
 *setiap hari menyisihkan uang jajan
 -belajar skill baru
 *meluangkan waktu untuk belajar skill baru
 *konsisten belajar
--selalu tepat waktu
+
